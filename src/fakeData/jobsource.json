@@ -1,0 +1,122 @@
+[
+	{
+	"key":"0001",
+	"category":"Development",
+	"title":"Junior Software Engineer",
+	"company":"Samsung",
+	"location":"Dhaka",
+    "salary":"18000",
+	"education":"B.Sc",
+	"experience":"1 Year",
+    "img":"",
+	"url":""
+	},
+    {
+	"key":"0002",
+	"category":"Marketing",
+	"title":"Junior Marketing Officer",
+	"company":"Asus",
+	"location":"Khulna",
+    "salary":"25000",
+	"education":"BBA",
+	"experience":"2 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0003",
+	"category":"Development",
+	"title":"Data Scienctist",
+	"company":"Samsung",
+	"location":"Dhaka",
+    "salary":"65000",
+	"education":"B.Sc",
+	"experience":"2 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0004",
+	"category":"Development",
+	"title":"AI Engineer",
+	"company":"US Software",
+	"location":"Dhaka",
+    "salary":"40000",
+	"education":"B.Sc",
+	"experience":"2 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0005",
+	"category":"Development",
+	"title":"React Engineer",
+	"company":"Reve System",
+	"location":"Dhaka",
+    "salary":"38000",
+	"education":"B.Sc",
+	"experience":"1 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0006",
+	"category":"Development",
+	"title":"Flutter Developer",
+	"company":"MCC Ltd",
+	"location":"Dhaka",
+    "salary":"45000",
+	"education":"B.Sc",
+	"experience":"3 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0007",
+	"category":"Design",
+	"title":"Web Designer",
+	"company":"Soft Tech",
+	"location":"Rangpur",
+    "salary":"28000",
+	"education":"B.Sc",
+	"experience":"3 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0008",
+	"category":"Design",
+	"title":"Video Editor",
+	"company":"Somoy TV",
+	"location":"Sylhet",
+    "salary":"23000",
+	"education":"B.Sc",
+	"experience":"2 Year",
+    "img":"",
+	"url":""
+	},
+{
+	"key":"0009",
+	"category":"Development",
+	"title":"Senior Software Engineer",
+	"company":"BJit",
+	"location":"Dhaka",
+    "salary":"35000",
+	"education":"B.Sc",
+	"experience":"2 Year",
+    "img":"",
+	"url":""
+	},
+    {
+	"key":"0010",
+	"category":"Design",
+	"title":"Graphic Designer",
+	"company":"iBoss Ltd",
+	"location":"Dhaka",
+    "salary":"20000",
+	"education":"B.Sc",
+	"experience":"1 Year",
+    "img":"",
+	"url":""
+	}
+]
